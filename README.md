@@ -9,7 +9,7 @@ Users can process images and videos. Especially, you can **import existed video*
 * *fd\_adaboost\_realtime.py* Process real-time video from camera without export.
 * *fd\_adaboost\_realtime\_save.py* Process real-time video from camera and export.
 
-* **You must manually set data path with '(root)/data/images' and '(root)/data/videos'**
+* **You must manually add data path with '(root)/data/images' and '(root)/data/videos'**
 
 ## Environment
 * Python 3.6
